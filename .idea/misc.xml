@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hafizil/AndroidStudioProjects/MeApp/app/src/main/res/drawable/bg1.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hafizil/AndroidStudioProjects/MeApp/app/src/main/res/drawable/bg2.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hafizil/AndroidStudioProjects/MeApp/app/src/main/res/drawable/bg3.xml" value="1.1214285714285714" />
+        <entry key="..\:/Users/Hafizil/AndroidStudioProjects/MeApp/app/src/main/res/drawable/bground.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hafizil/AndroidStudioProjects/MeApp/app/src/main/res/drawable/bio.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hafizil/AndroidStudioProjects/MeApp/app/src/main/res/drawable/btn_1.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hafizil/AndroidStudioProjects/MeApp/app/src/main/res/drawable/btn_bio.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hafizil/AndroidStudioProjects/MeApp/app/src/main/res/layout/activity_biodata.xml" value="0.2834507042253521" />
+        <entry key="..\:/Users/Hafizil/AndroidStudioProjects/MeApp/app/src/main/res/layout/activity_daftar_hewan.xml" value="0.22" />
+        <entry key="..\:/Users/Hafizil/AndroidStudioProjects/MeApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Hafizil/AndroidStudioProjects/MeApp/app/src/main/res/layout/activity_profil_ras.xml" value="0.25" />
+        <entry key="..\:/Users/Hafizil/AndroidStudioProjects/MeApp/app/src/main/res/layout/row_daftar_hewan.xml" value="0.25" />
+        <entry key="..\:/Users/Hafizil/AndroidStudioProjects/MeApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

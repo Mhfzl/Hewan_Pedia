@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingHorizontal="24dp"
+    android:background="@drawable/bground"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="Kuda Kelinci &amp; Monyet Pedia"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:background="@drawable/btn_1"
+        android:layout_marginTop="-20dp"
+        android:paddingTop="15dp"
+        android:paddingHorizontal="15dp"
+        android:textSize="25dp"
+        android:layout_marginBottom="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="SILAHKAN PILIH SALAH SATU RAS"
+        android:textColor="@color/design_default_color_primary_dark"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginVertical="5dp"
+        android:paddingVertical="15dp">
+        <ImageButton
+            android:id="@+id/btn_buka_ras_kuda"
+            android:padding="10dp"
+            android:layout_margin="8dp"
+            android:layout_width="200dp"
+            android:layout_weight="1"
+            android:layout_height="100dp"
+            android:elevation="5dp"
+            android:src="@drawable/kudabtn"
+            android:background="@drawable/btn_1"
+            android:foreground="?attr/selectableItemBackgroundBorderless"
+            android:scaleType="fitCenter" />
+        <ImageButton
+            android:id="@+id/btn_buka_ras_kelinci"
+            android:padding="10dp"
+            android:layout_margin="8dp"
+            android:layout_width="200dp"
+            android:layout_weight="1"
+            android:layout_height="100dp"
+            android:elevation="5dp"
+            android:src="@drawable/kelincibtn"
+            android:background="@drawable/btn_1"
+            android:foreground="?attr/selectableItemBackgroundBorderless"
+            android:scaleType="fitCenter" />
+        <ImageButton
+            android:id="@+id/btn_buka_ras_monyet"
+            android:padding="10dp"
+            android:layout_width="200dp"
+            android:elevation="5dp"
+            android:layout_height="100dp"
+            android:layout_margin="8dp"
+            android:layout_weight="1"
+            android:src="@drawable/monyetbtn"
+            android:background="@drawable/btn_1"
+            android:foreground="?attr/selectableItemBackgroundBorderless"
+            android:scaleType="fitCenter" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="(Tekan gambar untuk membuka galeri)"
+        android:textColor="@color/design_default_color_primary_dark"
+        android:textStyle="italic"
+        android:layout_marginBottom="32dp"
+        />
+
+    <ImageButton
+        android:id="@+id/btn_buka_biodata"
+        android:layout_width="71dp"
+        android:layout_height="75dp"
+        android:layout_column="2"
+        android:layout_gravity="end"
+        android:background="@drawable/btn_bio"
+        android:foreground="?attr/selectableItemBackgroundBorderless"
+        android:padding="10dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/biodatabtn" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Copyright@Muhafizil Adli"
+        android:gravity="center_horizontal|bottom" />
+
+</LinearLayout>
