@@ -44,7 +44,7 @@
             android:layout_weight="1"
             android:layout_height="100dp"
             android:elevation="5dp"
-            android:src="@drawable/kudabtn"
+            android:src="@drawable/kd_arab"
             android:background="@drawable/btn_1"
             android:foreground="?attr/selectableItemBackgroundBorderless"
             android:scaleType="fitCenter" />
@@ -56,7 +56,7 @@
             android:layout_weight="1"
             android:layout_height="100dp"
             android:elevation="5dp"
-            android:src="@drawable/kelincibtn"
+            android:src="@drawable/k_lop"
             android:background="@drawable/btn_1"
             android:foreground="?attr/selectableItemBackgroundBorderless"
             android:scaleType="fitCenter" />
@@ -68,7 +68,7 @@
             android:layout_height="100dp"
             android:layout_margin="8dp"
             android:layout_weight="1"
-            android:src="@drawable/monyetbtn"
+            android:src="@drawable/m_squirelmonkey"
             android:background="@drawable/btn_1"
             android:foreground="?attr/selectableItemBackgroundBorderless"
             android:scaleType="fitCenter" />
