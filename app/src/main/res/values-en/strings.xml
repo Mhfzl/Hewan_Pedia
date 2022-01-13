@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //JUDUL
+    <string name="app_name">Animal Pedia</string>
+    <string name="judul_list_kelinci">LIST OF RABBIT BREEDS</string>
+    <string name="judul_list_kuda">LIST OF HORSE BREEDS</string>
+    <string name="judul_list_monyet">LIST OF MONKEY BREEDS</string>
+    <string name="judul_main">Horse Rabbit &amp; Monkey Breeds</string>
+
+    //DATA KUCING
+    //Anggora
+    <string name="anggora_nama">Angora</string>
+    <string name="anggora_asal">Ankara, Turkey</string>
+    <string name="anggora_deskripsi">This rabbit has thick and long fur. This rabbit weighs about 2-4 kg. Angora rabbit fur can grow about 2 cm per month. Apart from being an ornamental rabbit, the fur of this Angora type is often used as wool.</string>
+    //Lop
+    <string name="lop_nama">Lop</string>
+    <string name="lop_asal">Dutch</string>
+    <string name="lop_deskripsi">The uniqueness of the Lop rabbit is in its ears. Lop rabbit ears hang from the head to the cheeks that become visible when the rabbit is 2-4 months old. Another characteristic of the Lop rabbit is its snub nose. Body size is 12-23 cm.</string>
+    //Flemish Giant
+    <string name="flemish_nama">Flemish Giant</string>
+    <string name="flemish_asal">Agentina</string>
+    <string name="flemish_deskripsi">The Flemish Giant Rabbit has the characteristics of a large body with the lightest weight of 8 kg and the heaviest reaching 13 kg, even the largest record reaching 22.23 kg in the Guinness World Records. Body length reaches 51 cm and the length of the ears up to 15 cm and big feet.</string>
+    //Rex
+    <string name="rex_nama">Rex</string>
+    <string name="rex_asal">France</string>
+    <string name="rex_deskripsi">Rex rabbits that are often cultivated have two types, namely Rex standard and Rex mini. The standard Rex weighs 3.6-5 kg, while the Mini Rex weighs 1.4-2 kg. Rex rabbit fur has a thickness of about 1-2 cm. The coat colors that are recognized as standard colors for Rex rabbits are black, blue, castor, lynx, opal, brown, red, white, chinchilla, lilac, Himalayan, broken, and tricolor.</string>
+    //Neteherland Dwarf
+    <string name="neteherland_nama">Neteherland Dwarf</string>
+    <string name="neteherland_asal">Dutch</string>
+    <string name="netherland_deskripsi">The characteristics of this rabbit is to have a short body, round head, short neck. The Netherland Dwarf rabbit weighed only 1 kg. The color of this rabbit fur varies, but the most popular is the rabbit with white fur and red eyes.</string>
+    //Himalayan
+    <string name="himalayan_nama">Himalayan</string>
+    <string name="himalayan_asal">America</string>
+    <string name="himalayan_deskripsi">The characteristics of this rabbit are the color of its fur which is as white as snow and has a combination of black polka dots around its nose, as well as additional colors around the ears and tail. The average body weight is 2.5-4.5 kg. Mini-sized rabbits only weigh 1 kg.</string>
+
+    //DATA KUDA
+    //Arab
+    <string name="arab_nama">Arab</string>
+    <string name="arab_asal">Arab</string>
+    <string name="arab_deskripsi">This horse has an excellent body condition and a fairly high level of intelligence, so it is easy to train. As for his own body resistance, it is also excellent and agile, so it is only natural that this horse is reliable enough to fight. For a height of about 1.4 - 1.6 meters in adulthood, the weight can reach 450 kg.</string>
+    //American Quarter
+    <string name="american_nama">American Quarter</string>
+    <string name="american_asal">America</string>
+    <string name="american_deskripsi">This horse has a short head, smooth body, strong and muscular, and has a broad chest. Then the back is strong and round, so this is what makes it have extraordinary speed in short distances.</string>
+    //Frisian
+    <string name="frisian_nama">Frisian</string>
+    <string name="frisian_asal">Friesland, Dutch</string>
+    <string name="frisian_deskripsi">This horse is quite different and looks more beautiful when compared to other breeds. This horse has a height of about 152 – 173 cm when fully grown, black, and has strong muscles.</string>
+    //Mustang
+    <string name="mustang_nama">Mustang</string>
+    <string name="mustang_asal">Canada</string>
+    <string name="mustang_deskripsi">The height of this Mustang horse in adulthood can be up to 1.3 - 1.5 meters. Although it has a body that is not too big like the previous type of horse, but still this horse has quite great strength, especially in running.</string>
+    //Thoroughbred
+    <string name="thoroughbred_nama">Thoroughbred</string>
+    <string name="thoroughbred_asal">English</string>
+    <string name="thoroughbred_deskripsi">This horse has a tall, slim, and athletic body. And used for racing and other equestrian sports, it is clear that his running strength cannot be doubted. How to care for this type of racing horse is different from other horses.</string>
+    //Parcheron
+    <string name="parcheron_nama">Parcheron</string>
+    <string name="parcheron_asal">France</string>
+    <string name="parcheron_deskripsi">This horse is one of the most obedient and easy to train horses, and doesn\'t complain easily when asked to work. The characteristic color of this French horse is gray and black, has clean legs, is strong, and easy to obey its caregivers.</string>
+
+    //DATAMONYET
+    //Common Marmoset
+    <string name="common_nama">Common Marmoset</string>
+    <string name="common_asal">Brazil</string>
+    <string name="common_deskripsi">They have a long tail and as adults reach a maximum weight of about 0.5 kg. The more mature the common marmoset, the more white hair on the sides of its face.</string>
+    //Pygmy Marmoset
+    <string name="pygmy_nama">Pygmy Marmoset</string>
+    <string name="pygmy_asal">Amazon, United States of America</string>
+    <string name="pygmy_deskripsi">Crowned as the smallest type of monkey in the world. Its size is only the size of an adult\'s palm and weighs only about 1 kg.</string>
+    //Golden Lion Tamarin
+    <string name="golden_nama">Golden Lion Tamarin</string>
+    <string name="golden_asal">Brazil</string>
+    <string name="golden_deskripsi">Has a golden red orange fur color, with thick hair covering the entire edge of the face, making this monkey like a lion. They weigh less than half a kilogram. It has a body length of up to 35 cm, but its thin tail has a length of up to 40 cm.</string>
+    //Emperor Tamarin
+    <string name="emperor_nama">Emperor Tamarin</string>
+    <string name="emperor_asal">Brazil dan Peru</string>
+    <string name="emperor_deskripsi">The hallmark of the emperor tamarin is of course his long white mustache and curved downwards. The length of this monkey only ranges from 23-26 cm, while the tail includes a length of 35-41.5 cm. Emperor tamarin weighs about 500 gr.</string>
+    //Cotton Top
+    <string name="cotton_nama">Cotton Top</string>
+    <string name="cotton_asal">Colombia dan Brazil</string>
+    <string name="cotton_deskripsi">One of the smallest primates weighing less than half a kilogram. His trademark is of course his long white hair that exceeds his shoulders. Maybe because of his hair and body shape, some of you think this monkey looks like the character Blanka from the Street Fighter game.</string>
+    //Squirrel Monkey
+    <string name="squirrel_nama">Squirrel Monkey</string>
+    <string name="squirrel_asal">America</string>
+    <string name="squirrel_deskripsi">Including a small monkey with a body size of only about 25 cm, and the tail has almost the same length. Unlike most other long-tailed monkeys, the squirrel monkey\'s tail cannot be used to grip tree trunks.</string>
+
+    //JENIS
+    <string name="jenis_Kelinci">Rabbit</string>
+    <string name="jenis_Kuda">Horse</string>
+    <string name="jenis_Monyet">Monkey</string>
+
+    //STRING
+    <string name="sub_judulMain">PLEASE CHOOSE ONE RACE</string>
+    <string name="notif">(Press image to open gallery)</string>
+</resources>

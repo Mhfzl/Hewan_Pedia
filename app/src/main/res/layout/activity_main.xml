@@ -12,7 +12,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="100dp"
-        android:text="Kuda Kelinci &amp; Monyet Pedia"
+        android:text="@string/judul_main"
         android:gravity="center"
         android:textStyle="bold"
         android:textColor="@color/black"
@@ -26,7 +26,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="SILAHKAN PILIH SALAH SATU RAS"
+        android:text="@string/sub_judulMain"
         android:textColor="@color/design_default_color_primary_dark"/>
 
     <LinearLayout
@@ -79,7 +79,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="(Tekan gambar untuk membuka galeri)"
+        android:text="@string/notif"
         android:textColor="@color/design_default_color_primary_dark"
         android:textStyle="italic"
         android:layout_marginBottom="32dp"

@@ -9,6 +9,9 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.meapp.model.Hewan;
+import com.example.meapp.model.Kelinci;
+import com.example.meapp.model.Kuda;
+import com.example.meapp.model.Monyet;
 
 public class ProfilActivity extends AppCompatActivity {
 
@@ -35,7 +38,13 @@ public class ProfilActivity extends AppCompatActivity {
 
     private void tampilkanProfil(Hewan hewan) {
         Log.d("Profil","Menampilkan "+hewan.getJenis());
-        txJudul.setText(hewan.getJenis());
+        if(hewan instanceof Kelinci){
+            txJudul.setText(getString(R.string.jenis_Kelinci));
+        }else if(hewan instanceof Kuda){
+            txJudul.setText(getString(R.string.jenis_Kuda));
+        }else if(hewan instanceof Monyet){
+            txJudul.setText(getString(R.string.jenis_Monyet));
+        }
         txJenis.setText(hewan.getRas());
         txAsal.setText(hewan.getAsal());
         txDeskripsi.setText(hewan.getDeskripsi());
